@@ -1,0 +1,40 @@
+@media only screen and (max-width: 600px){
+    body{
+        padding: 50px;
+    }
+    .woman-jacket {
+        margin: 383px 0px;
+    }
+    .woman-jacket .jacket-img {
+        margin-top: 70px;
+    }
+    .troly-area {
+        margin: -210px 0px;
+        text-align: center;
+    }
+   .padding{
+        margin-top: 20px;
+    }
+    .padding1{
+        margin-top: -20px;
+    }
+    .navbar{
+        display: block;
+        font-size: 25px;
+        float: right;
+    }
+    nav{
+        display: none;
+    }
+    .extra-section{
+        margin-top:300px;
+    }
+    .extra-section .text, .text1,.text2, .text3{
+        display: none;
+    }
+    .extra-section  .img{
+        width: 50%;
+        height: 100%;
+    }
+    
+}
